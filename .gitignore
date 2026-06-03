@@ -1,5 +1,8 @@
 .DS_Store
 
+# Visual Studio local files
+.vs/
+
 # Virtual Environment
 venv
 
